@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34274083128",
+    "project_id": "trackizer-425817",
+    "storage_bucket": "trackizer-425817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34274083128:android:e325c1b920509a8e3601cd",
+        "android_client_info": {
+          "package_name": "com.example.trackizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34274083128-22nep0dmr8ocm5bkn29j2admvdcrrknc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOZohZwoQOOe3MslRLZLJtd_UAT-JkhoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34274083128-22nep0dmr8ocm5bkn29j2admvdcrrknc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
